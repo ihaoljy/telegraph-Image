@@ -32,6 +32,7 @@
 + 2023-8-12 ：图片管理功能
 
 ### 利用Cloudflare pages部署
+> [详细教程+视频](https://blog.090227.xyz/p/telegraph-Image/)
 
 > [开启图片管理功能教程](./docs/manage.md)
 
@@ -48,6 +49,7 @@
 >  访问http(s)://你的域名/admin 即可打开后台管理页面
 
 >  访问http(s)://你的域名/list 即可打开log管理页面
+
 
 
 #### 后台管理不是很完善 但基本的应该都有了 
